@@ -14,9 +14,19 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 
 | File                                                                    | Description                                                 |
 |-------------------------------------------------------------------------|-------------------------------------------------------------|
-| `Predicting_Annual_Medical_Insurance_Costs.ipynb`         | Main notebook with all code, analysis, and plots      |
-| `Predicting_Annual_Medical_Insurance_Costs_Using_Machine_Learning.pdf` | Final report submitted for the ECGR 4105 course            |
-| `insurance.csv`                                                      | Medical Cost Personal Datasets from Kaggle                         |
-| `README.md`                                                             | Summary                           |
+| `Predicting_Annual_Medical_Insurance_Costs.ipynb`                       | Main Python notebook                                       |
+| `Predicting_Annual_Medical_Insurance_Costs_Using_Machine_Learning.pdf`  | Final report submitted for the ECGR 4105 course            |
+| `insurance.csv`                                                         | Medical Cost Personal Datasets from Kaggle                 |
+| `README.md`                                                             | Summary                                                    |
+
+---
+
+## Metrics
+
+| Model                               | MSE    | MAE    | R²     | 
+|-------------------------------------|--------|--------|--------|
+| Linear Regression                   | 0.176 | 0.263 | 0.790 |
+| Support Vector Machine              | 0.107 | 0.156 | 0.872 |
+| Artificial Neural Network           | 0.160 | 0.257 | 0.822 |
 
 ---
