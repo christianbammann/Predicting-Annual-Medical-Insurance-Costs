@@ -21,7 +21,7 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 
 ---
 
-## Metrics
+## Results
 
 | Model                               | MSE    | MAE    | R²     | 
 |-------------------------------------|--------|--------|--------|
@@ -30,3 +30,11 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 | Artificial Neural Network           | 0.160 | 0.257 | 0.822 |
 
 ---
+
+## Analysis
+
+- 1
+- 2
+- 3
+- 4
+- 5
