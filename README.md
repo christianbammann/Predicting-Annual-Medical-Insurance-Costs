@@ -7,3 +7,16 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 ## Authors
 - **Christian Bammann** – Contributor of data preprocessing, Linear Regression/SVM model development, and co-author of the written final project report.  
 - **Ryan Monroe** – Contributor of data preprocessing, ANN model development, and co-author of the written final project report.
+
+---
+
+## Contents
+
+| File                                                                    | Description                                                 |
+|-------------------------------------------------------------------------|-------------------------------------------------------------|
+| `Predicting_Annual_Medical_Insurance_Costs.ipynb`         | Main notebook with all code, analysis, and plots      |
+| `Predicting_Annual_Medical_Insurance_Costs_Using_Machine_Learning.pdf` | Final report submitted for the ECGR 4105 course            |
+| `insurance.csv`                                                      | Medical Cost Personal Datasets from Kaggle                         |
+| `README.md`                                                             | Summary                           |
+
+---
