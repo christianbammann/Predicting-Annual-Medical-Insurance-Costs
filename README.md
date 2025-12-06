@@ -16,6 +16,7 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 |------------------------------------------------------------------------------------------|-------------------------|
 | 'Predicting_Annual_Medical_Insurance_Costs.ipynb'                                          | Main Python notebook    |
 | 'Predicting_Annual_Medical_Insurance_Costs.pdf'                                            | IEEE-style technical report |
+| 'Predicting_Annual_Medical_Insurance_Costs_Presentation.pdf'                                            | Presentation Slides |
 | 'insurance.csv'                                                                            | Dataset                 |
 | 'README.md'                                                                                | Project Summary         |
   
