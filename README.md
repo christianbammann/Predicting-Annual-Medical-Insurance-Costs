@@ -34,8 +34,14 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 
 ## Analysis
 
-- 1
-- 2
-- 3
-- 4
-- 5
+- The Linear Regression (LR) model performed the worst. LR struggles with nonlinear data relationships.
+- The Support Vector Machine (SVM) model performed the best. SVM models excel on small nonlinear datasets.
+- The Artificial Neural Network (ANN) model performed well. ANN requires a larger amount of data and more tuning.
+
+## Key Insights
+
+- Individuals who smoked had significantly higher charges than those who do not smoke
+- Age is the second strongest factor, with older individuals tending to have higher charges
+- Higher BMI often corresponds to higher charges, especially when greater than 30
+- Children, sex, and region have relatively minor influence on charges compared to the features above
+
