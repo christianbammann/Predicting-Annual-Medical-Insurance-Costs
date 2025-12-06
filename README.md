@@ -12,7 +12,7 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 
 ## Contents
 
-<table style="width:100%">
+<table width="100%">
   <tr>
     <th>File</th>
     <th>Description</th>
@@ -33,8 +33,8 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
     <td>README.md</td>
     <td>Project Summary</td>
   </tr>
-</table>                                                                  | Project Summary                                             |
-
+</table>
+  
 ---
 
 ## Results
