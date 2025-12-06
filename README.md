@@ -47,7 +47,7 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 
 ---
 
-## Lessons Learned
+## Conclusion
 The quickest and easiest way to identify apparent trends in a dataset is to apply a simple linear regression model. However, the results are nothing more than can be predicted intuitively. There is an inherent subjectiveness in the dataset that makes accurate predictions difficult.
 
 Therefore, to thoroughly analyze underlying patterns it becomes necessary to utilize a neural network. Structuring a neural network comes with its own challenges, such as ensuring it’s complex enough to learn features yet still resistant to overfitting and exploding gradients. 
