@@ -12,13 +12,28 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 
 ## Contents
 
-| File                                                                    | Description                                                 |
-|-------------------------------------------------------------------------|-------------------------------------------------------------|
-| `Predicting_Annual_Medical_Insurance_Costs.ipynb`                               | Main Python notebook                                        |
-| `Predicting_Annual_Medical_Insurance_Costs.pdf`                                 | IEEE-style technical report                                 |
-| `Predicting_Annual_Medical_Insurance_Costs_Presentation.pdf`                    | Slideshow presentation                                      |
-| `insurance.csv`                                                                 | Dataset                                                     |
-| `README.md`                                                                     | Project Summary                                             |
+<table style="width:100%">
+  <tr>
+    <th>File</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Predicting_Hospital_Stay_Duration_Using_Healthcare_Data.ipynb</td>
+    <td>Main Colab notebook with all code, analysis, and plots</td>
+  </tr>
+  <tr>
+    <td>Predicting_Hospital_Stay_Duration_Using_Synthetic_Healthcare_Data.pdf</td>
+    <td>Final report submitted for the ECGR 4105 course</td>
+  </tr>
+  <tr>
+    <td>LengthOfStay.csv</td>
+    <td>Input dataset used in the notebook</td>
+  </tr>
+  <tr>
+    <td>README.md</td>
+    <td>Project summary and documentation</td>
+  </tr>
+</table>                                                                  | Project Summary                                             |
 
 ---
 
