@@ -1,4 +1,4 @@
-# Predicting-Annual-Medical-Insurance-Costs
+# Predicting Annual Medical Insurance Costs
 
 This project aims to utilize characteristic lifestyle data such as BMI and smoking history to predict an individual’s health insurance cost using machine learning models. This will provide insight into which attributes have the strongest effect on healthcare expenses, help improve cost forecasting for insurance providers, and highlight how lifestyle choices impact medical costs.
 
@@ -49,4 +49,4 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 ---
 
 ## Conclusion
-Our models provide evidence of contributing factors to higher medical bills and insight on what medical costs to expect based on your lifestyle. The trained models could effectively be used to predict the annual medical charges someone can expect to incur, given only their smoker status, BMI, and age. For nonsmokers who are not obese the predictions will be exceptionally accurate, and the results can be used to reinforce lifestyle habits and promote active saving for expected expenses.
+These machine learning models provide evidence of contributing factors to higher medical bills and insight on what medical costs to expect based on your lifestyle. The trained models could effectively be used to predict the annual medical charges someone can expect to incur, given only their smoker status, BMI, and age. For nonsmokers who are not obese the predictions will be exceptionally accurate, and the results can be used to reinforce lifestyle habits and promote active saving for expected expenses.
