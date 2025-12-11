@@ -29,15 +29,15 @@ This project aims to utilize characteristic lifestyle data such as BMI and smoki
 |-------------------------------------|-----------------------------|-----------------------------|-----------------------------|
 | Linear Regression (LR)              | 0.176                       | 0.263                       | 0.790                       |
 | Support Vector Machine (SVM)        | 0.107                       | 0.156                       | 0.872                       |
-| Artificial Neural Network (ANN)     | 0.160                       | 0.257                       | 0.822                       |
+| Artificial Neural Network (ANN)     | 0.125                       | 0.194                       | 0.861                       |
 
 ---
 
 ## Analysis
 
 - The Linear Regression (LR) model performed the worst. LR struggles with nonlinear data relationships.
-- The Support Vector Machine (SVM) model performed the best. SVM models excel on small nonlinear datasets.
-- The Artificial Neural Network (ANN) model performed well. ANN requires a larger amount of data and more tuning.
+- The Support Vector Machine (SVM) model performed well. SVM models excel on small nonlinear datasets.
+- The Artificial Neural Network (ANN) model performed the best. ANN requires a larger amount of data and more tuning.
 
 ## Key Insights
 
